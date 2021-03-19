@@ -1,7 +1,7 @@
 {
     "QuestionSet": [
       {
-          "id": 1
+          "id": 1,
           "Question": "The average age of A, B, C, D, and E is 40 years. The average age of A and B is 35 years and the average age of C and D is 42 years. The age of E is? \n ए, बी, सी, डी और ई की औसत आयु 40 साल है। ए और बी की औसत आयु 35 वर्ष है और सी और डी की औसत आयु 42 वर्ष है। ई की उम्र है?",
           "Options": [
           46, 
@@ -13,7 +13,7 @@
           "Solution": "", 
       }, 
       {
-          "id": 2
+          "id": 2,
           "Question": "Nine persons went to a hotel for taking their meals. Eight of them spent Rs. 12 each of their meals and the ninth spent Rs. 8 more than the average expending of all the nine. Total money spent by them was? \n नौ लोग अपने भोजन लेने के लिए एक होटल गए। उनमें से आठ ने 12 रुपये रुपये खर्च किये और नवेँ ने आठों के खर्च से औसत 8 रुपये अधिक खर्च किये. उनके द्वारा खर्च किया गया कुल पैसा था?", 
           "Options": [
           104, 
@@ -25,7 +25,7 @@
           "Solution":= "", 
       }, 
       {
-          "id": 3
+          "id": 3,
           "Question": " The average age of eleven cricket players is 20 years. If the age of the coach is also included, the average age increases by 10%. The age of the coach is? \n ग्यारह क्रिकेट खिलाड़ियों की औसत आयु 20 साल है। यदि कोच की उम्र भी शामिल है, तो औसत आयु 10% बढ़ जाती है। कोच की उम्र है?", 
           "Options": [
           "48 Years", 
@@ -37,7 +37,7 @@
           "Solution": "", 
       }, 
       {
-          "id":
+          "id":,
           "Question": "",
           "Options": [
           , 
