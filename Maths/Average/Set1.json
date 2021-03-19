@@ -3,12 +3,12 @@
       {
         "Correct": 2, 
         "Options": [
-          10, 
-          20, 
-          30, 
-          40
+          46, 
+          38, 
+          62, 
+          "None of these"
         ], 
-        "Question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candies with Akash was 60% of the total candies with them. How many candies did each have?", 
+        "Question": "The average age of A, B, C, D, and E is 40 years. The average age of A and B is 35 years and the average age of C and D is 42 years. The age of E is? \n ए, बी, सी, डी और ई की औसत आयु 40 साल है। ए और बी की औसत आयु 35 वर्ष है और सी और डी की औसत आयु 42 वर्ष है। ई की उम्र है:", 
         "Solution": "Explanation Let the candies with be (x + 15) and x.Therefore, x + 15 = 60/100(x + 15 + x)(x + 15) = 3/5(2x + 15)5x + 75 = 6x + 45x = 30So, the marks of two students are 45 and 30.", 
         "id": 2
       }, 
