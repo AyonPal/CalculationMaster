@@ -1,0 +1,52 @@
+{
+    "QuestionSet": [
+      {
+        "Correct": 2, 
+        "Options": [
+          10, 
+          20, 
+          30, 
+          40
+        ], 
+        "Question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candies with Akash was 60% of the total candies with them. How many candies did each have?", 
+        "Solution": "Explanation Let the candies with be (x + 15) and x.Therefore, x + 15 = 60/100(x + 15 + x)(x + 15) = 3/5(2x + 15)5x + 75 = 6x + 45x = 30So, the marks of two students are 45 and 30.", 
+        "id": 2
+      }, 
+      {
+        "Correct": 2, 
+        "Options": [
+          10, 
+          20, 
+          30, 
+          40
+        ], 
+        "Question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candies with Akash was 60% of the total candies with them. How many candies did each have?", 
+        "Solution": "Explanation Let the candies with be (x + 15) and x.Therefore, x + 15 = 60/100(x + 15 + x)(x + 15) = 3/5(2x + 15)5x + 75 = 6x + 45x = 30So, the marks of two students are 45 and 30.", 
+        "id": 2
+      }, 
+      {
+        "Correct": 2, 
+        "Options": [
+          10, 
+          20, 
+          30, 
+          40
+        ], 
+        "Question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candies with Akash was 60% of the total candies with them. How many candies did each have?", 
+        "Solution": "Explanation Let the candies with be (x + 15) and x.Therefore, x + 15 = 60/100(x + 15 + x)(x + 15) = 3/5(2x + 15)5x + 75 = 6x + 45x = 30So, the marks of two students are 45 and 30.", 
+        "id": 3
+      }, 
+      {
+        "Correct": 2, 
+        "Options": [
+          10, 
+          20, 
+          30, 
+          40
+        ], 
+        "Question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candies with Akash was 60% of the total candies with them. How many candies did each have?", 
+        "Solution": "Explanation Let the candies with be (x + 15) and x.Therefore, x + 15 = 60/100(x + 15 + x)(x + 15) = 3/5(2x + 15)5x + 75 = 6x + 45x = 30So, the marks of two students are 45 and 30.", 
+        "id": 4
+      }      
+    ]
+  }
