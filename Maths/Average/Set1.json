@@ -10,7 +10,7 @@
           "None of these"
           ], 
           "Correct": 1,
-          "Solution": "", 
+          "Solution": "" 
       }, 
       {
           "id": 2,
@@ -22,7 +22,7 @@
           117
           ], 
           "Correct": 4,
-          "Solution":"", 
+          "Solution":"" 
       }, 
       {
           "id": 3,
@@ -34,19 +34,7 @@
           " 46Years"
           ], 
           "Correct": 2, 
-          "Solution": "", 
-      }, 
-      {
-          "id":,
-          "Question": "",
-          "Options": [
-          , 
-          , 
-          , 
-          ],
-          "Correct": , 
- 
-        "Solution": "", 
-      }      
+          "Solution": ""
+      }     
     ]
   }
